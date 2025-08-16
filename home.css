@@ -33,7 +33,7 @@ height: 100%;
       }
       .main{
       min-height: 93%; /* takes the full viewport height */
-  background-image: url(./city_texture6477.jpg);
+  background-image: url("https://bgfons.com/uploads/city/city_texture6477.jpg");
   background-size: cover; /* Scale to cover the area */
   background-position: center; /* Center the image */
   background-repeat: no-repeat;
